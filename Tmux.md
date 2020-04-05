@@ -11,7 +11,11 @@ attach session
 Window operations
 
     cnrl + b --> Command mode
-    cmnd + % -->  vertical Split
-    cmnd + " --> horizontal switch
-    cmnt + arrow keys --> switch contronl inside session
+    cmnd , % -->  vertical Split
+    cmnd , " --> horizontal switch
+    cmnt , arrow keys --> switch contronl inside session
     
+    
+Copy paste
+    cmnd , [, then scroll to the required pos, then cntrl+space to select, alt+w to copy
+    cmnt , ] to paste
