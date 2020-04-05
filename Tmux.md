@@ -17,5 +17,7 @@ Window operations
     
     
 Copy paste
+
+
     cmnd , [, then scroll to the required pos, then cntrl+space to select, alt+w to copy
     cmnt , ] to paste
